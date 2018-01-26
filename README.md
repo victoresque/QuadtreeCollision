@@ -11,8 +11,12 @@ Apply each of them on the same amount of particles to see the performance differ
 
 ## Demo
 ### Brute Force vs. Quadtree
-![Brute Force](demo/bruteforce.gif) ![Quadtree](demo/quadtree.gif)
+4000 particles
+* Brute Force: ~8 fps
+* Quadtree: ~30 fps
+<img src="demo/bruteforce.gif" width="400">
+<img src="demo/quadtree.gif" width="400">
 
 ### Quadtree Visualization
-![Quadtree Visualization](demo/quadtreevis.gif)
+<img src="demo/quadtreevis.gif" width="400">
 

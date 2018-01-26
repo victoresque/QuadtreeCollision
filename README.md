@@ -1,5 +1,7 @@
 # QuadtreeCollision
-A demo of collision detection using quadtree as spatial partitioning method (Demo @ NTU Game Design &amp; Research Club, 2016)
+A demo of collision detection using quadtree as spatial partitioning method 
+
+(Demo @ NTU Game Design &amp; Research Club, 2016)
 
 ## Introduction
 This is a visualized demo of the difference between Brute Force and Quadtree

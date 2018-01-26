@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../collision/base"
+      name = "base">
+      <FileRef
+         location = "group:c2World.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2Object.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2Object.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2World.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2Time.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2Time.h">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:../collision/geometry"
+      name = "geometry">
+      <FileRef
+         location = "group:c2Shapes.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2Shapes.cpp">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:../collision/physics"
+      name = "physics">
+      <FileRef
+         location = "group:c2BoundingVolumes.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2CollisionSolver.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2CollisionInfo.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2CollisionSolver.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2CollisionDetection.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2bpQuadTree.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2Broadphase.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2Broadphase.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2bpQuadTree.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2Collisioninfo.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2bpAABBTree.h">
+      </FileRef>
+      <FileRef
+         location = "group:c2BoundingVolumes.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:c2CollisionDetection.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
